@@ -1,0 +1,12 @@
+Real World Applications:
+1. Snapchat
+- Database Type: NoSQL
+- Reason: Snapchat is a social media platform that heavily relies on managing user relationships and unstructured data types like messages, images and videos. Hence, NoSQL databases can be used to easily store the unstructured data. Also, graph databases like Neo4j can be used to manage the user relations (friends, snap streaks etc.)
+
+2. Groww
+- Database Type: SQL
+- Reason: Groww is a financial investment platform that manages stock tradings and transactions. To keep track of such a large amount of transactions, Groww uses SQL databases to maintain data integrity and consistency.
+
+3. Spotify
+- Database Type: NoSQL
+- Reason: Spotify is a popular music streaming application. Hence, NoSQL databases are useful to store unstructured data like audio files and album cover images. Also, to maintain playlists and song queues, it uses graph-based NoSQL databases. 
