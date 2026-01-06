@@ -1,0 +1,21 @@
+Unnormalized Data:
+
+Orders Table: 
+Order_ID  Customer_ID     Products
+  101	    Rahul	Laptop, Mouse
+
+
+
+
+1NF Form:
+
+Order_Products Table:
+Order_ID    Product_Name
+   101	    Laptop
+   101	    Mouse
+   
+   
+Orders Table: 
+Order_ID  Customer_ID 
+  101	    Rahul	  
+  
