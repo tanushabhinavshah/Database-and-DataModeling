@@ -1,3 +1,10 @@
+Normalization helps in reducing redundancy and ensures proper consistency in databases. It divides large tables into smaller efficient tables to tackle CRUD anomalies.
+If normalization is not done, it may result in 
+1. Inconsistent data
+2. Inaccurate data 
+3. Inefficient storage of data (redundancy) in the database.
+
+
 Unnormalized Data:
 
 Orders Table: 
